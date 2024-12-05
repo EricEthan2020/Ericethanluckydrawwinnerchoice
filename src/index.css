@@ -1,0 +1,7 @@
+@import 'animate.css';
+.animate-fast {
+    animation-duration: 0.8s !important; /* Adjust to your preferred speed */
+  }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
